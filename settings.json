@@ -6,8 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "DEATHNOTESMP-dL4e.aternos.me
+",
+    "port": 27696,
     "version": "1.20.1",
     "try-creative": false
   },
